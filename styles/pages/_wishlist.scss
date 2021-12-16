@@ -1,0 +1,63 @@
+.wishlist-page-wrapper {
+  .wishlist-banner {
+    height: 250px;
+    h1 {
+      font-size: 60px;
+    }
+    ul {
+      li {
+        cursor: pointer;
+      }
+    }
+  }
+  .custom-table {
+    table {
+      thead {
+        tr {
+          th {
+            padding: 0.6rem 0;
+            font-size: 17px;
+            font-weight: 700;
+            color: rgba($color: $sec-color, $alpha: 0.7);
+          }
+        }
+      }
+      tbody {
+        tr {
+          td {
+            padding: 1rem 0rem;
+            .product-preview {
+              .img-wrapper {
+                width: 80px;
+                height: 80px;
+              }
+            }
+            button {
+              padding: 0.3rem 1.3rem;
+              background: none;
+              outline: none;
+              border: 1px solid black;
+              transition: all 0.3s ease-in-out;
+              &:hover {
+                background: $orange;
+                border-color: $orange;
+                color: white;
+              }
+            }
+          }
+          .price,
+          .stock {
+            font-size: 15px;
+            font-weight: 700;
+          }
+          .price {
+            color: rgba($color: $sec-color, $alpha: 0.7);
+          }
+          .stock {
+            color: $light-green;
+          }
+        }
+      }
+    }
+  }
+}

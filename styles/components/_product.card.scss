@@ -1,0 +1,36 @@
+.product-card {
+  &:hover {
+    .img-wrapper {
+      .actions {
+        transform: translateY(0px);
+      }
+    }
+  }
+  .img-wrapper {
+    .actions {
+      height: 50px;
+      transition: all 0.3s ease-in-out;
+      transform: translateY(100%);
+      svg,
+      p {
+        color: #a6a6a6;
+        font-size: 14px;
+        transition: all 0.2s ease-in-out;
+        &:hover {
+          color: $orange;
+        }
+      }
+    }
+  }
+  .des-wrapper {
+    p {
+      font-size: 14px;
+      color: rgb(83, 83, 83);
+    }
+    span,
+    del {
+      font-size: 13px;
+      color: rgb(83, 83, 83);
+    }
+  }
+}

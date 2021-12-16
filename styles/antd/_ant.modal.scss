@@ -1,0 +1,62 @@
+.ant-modal-content {
+  border-radius: 9px;
+  .ant-modal-body {
+    .content-wrapper {
+      .img-wrapper {
+        border-radius: 10px;
+        width: 496px;
+        height: 496px;
+        .inner-image-wrapper {
+          transition: all 0.3s ease-in-out;
+          img {
+            width: 496px;
+            height: 496px;
+            user-select: none;
+          }
+        }
+        .arrow {
+          top: 50%;
+          transform: translateY(-50%);
+          padding: 7px 10px;
+          border-radius: 4px;
+          cursor: pointer;
+          background: white;
+          transition: all 0.3s ease-in-out;
+          z-index: 5;
+          svg {
+            transition: all 0.3s ease-in-out;
+          }
+          &:hover {
+            background: $orange;
+            svg {
+              color: white;
+            }
+          }
+        }
+        .disabled {
+          opacity: 0.4;
+          cursor: not-allowed;
+        }
+        .arrow-left {
+          left: 15px;
+        }
+        .arrow-right {
+          right: 15px;
+        }
+      }
+      .description-wrapper {
+        width: 50%;
+        h2 {
+          font-size: 25px;
+          font-weight: 300;
+        }
+        p {
+          font-size: 16px;
+        }
+        .lorem-des {
+          font-size: 15px;
+        }
+      }
+    }
+  }
+}

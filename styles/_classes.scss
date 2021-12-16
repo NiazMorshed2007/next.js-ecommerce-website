@@ -1,0 +1,30 @@
+.pointer {
+  cursor: pointer;
+}
+
+.fitImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.text-orange {
+  color: $orange;
+}
+
+.text-sec {
+  font-size: 13px;
+  color: $sec-color;
+}
+
+.discover {
+  width: max-content;
+  font-size: 14px;
+  font-weight: 600;
+  border-bottom: 2px solid black;
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    color: $orange;
+    border-color: $orange;
+  }
+}

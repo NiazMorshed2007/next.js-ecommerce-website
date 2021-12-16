@@ -1,0 +1,27 @@
+@import "~bootstrap/scss/bootstrap.scss";
+@import "~antd/dist/antd.css";
+@import "fonts";
+@import "colors";
+@import "classes";
+@import "mixin";
+@import "global.style";
+@import "./components/header";
+@import "./components/banner";
+@import "./components/footer";
+@import "./components/product.card";
+@import "./antd/ant.modal";
+@import "./pages/home";
+@import "./pages/wishlist";
+@import "./pages/blog";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $mukta;
+  overflow-x: hidden;
+  @include customScrollBar;
+}

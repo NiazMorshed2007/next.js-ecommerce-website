@@ -1,0 +1,26 @@
+.header {
+  z-index: 100;
+  transition: all 0.3s ease-in-out;
+  top: 0;
+  img {
+    cursor: pointer;
+  }
+  .navigations {
+    p {
+      cursor: pointer;
+      font-weight: 400;
+      font-size: 15px;
+      transition: all 0.3s ease-in-out;
+      &:hover {
+        color: $orange;
+      }
+    }
+  }
+  .icons-wrapper {
+    svg {
+      font-size: 22px;
+      color: #4f4f4f;
+      cursor: pointer;
+    }
+  }
+}

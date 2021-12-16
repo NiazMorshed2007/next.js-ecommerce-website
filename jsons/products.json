@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Aviator Sungalsses",
+    "photo": "https://supro.noudeveloper.com/uploads/1b_8a96b4f17a.jpg",
+    "hovered_photo": "",
+    "price": "9.91",
+    "original_price": "21.21",
+    "id": "01",
+    "product_views": ["https://supro.noudeveloper.com/uploads/1b_8a96b4f17a.jpg", "https://supro.noudeveloper.com/uploads/1a_3224ccb7e7.jpg", "https://supro.noudeveloper.com/uploads/1c_bbdb598969.jpg"]
+  },
+  {
+    "name": "Contrast BackPack",
+    "photo": "https://supro.noudeveloper.com/uploads/2a_fb7332752e.jpg",
+    "hovered_photo": "https://supro.noudeveloper.com/uploads/2b_c3aa5954dd.jpg",
+    "price": "69.9",
+    "original_price": "",
+    "id": "02",
+    "product_views": ["https://supro.noudeveloper.com/uploads/2a_fb7332752e.jpg", "https://supro.noudeveloper.com/uploads/2b_c3aa5954dd.jpg"]
+  },
+  {
+    "name": "Contrasting Design T-Shirt",
+    "photo": "https://supro.noudeveloper.com/uploads/3a_c372cd4673.jpg",
+    "hovered_photo": "https://supro.noudeveloper.com/uploads/3b_ed18d940e7.jpg",
+    "price": "95.9",
+    "original_price": "",
+    "id": "03",
+    "product_views": ["https://supro.noudeveloper.com/uploads/3a_c372cd4673.jpg", "https://supro.noudeveloper.com/uploads/3b_ed18d940e7.jpg", "https://supro.noudeveloper.com/uploads/3c_a23bcf1be1.jpg", "https://supro.noudeveloper.com/uploads/3d_587da28706.jpg"]
+  },
+  {
+    "name": "Cotton Sweater",
+    "photo": "https://supro.noudeveloper.com/uploads/4a_a974c7f2dd.jpg",
+    "hovered_photo": "https://supro.noudeveloper.com/uploads/4b_43f5aea45d.jpg",
+    "price": "19.9",
+    "original_price": "",
+    "id": "04",
+    "product_views": ["https://supro.noudeveloper.com/uploads/4a_a974c7f2dd.jpg", "https://supro.noudeveloper.com/uploads/4b_43f5aea45d.jpg", "https://supro.noudeveloper.com/uploads/4c_592a723ab9.jpg"]
+  },
+  {
+    "name": "Cropped Denim Jumpsuit",
+    "photo": "https://supro.noudeveloper.com/uploads/5a_42f972ba90.jpg",
+    "hovered_photo": "https://supro.noudeveloper.com/uploads/5b_a1a52ce202.jpg",
+    "price": "89.95",
+    "original_price": "",
+    "id": "05",
+    "product_views": ["https://supro.noudeveloper.com/uploads/5a_42f972ba90.jpg", "https://supro.noudeveloper.com/uploads/5b_a1a52ce202.jpg", "https://supro.noudeveloper.com/uploads/5c_3cc9734932.jpg"]
+  },
+  {
+    "name": "Embroidered Flowy Jacket",
+    "photo": "https://supro.noudeveloper.com/uploads/6a_ff1677c059.jpg",
+    "hovered_photo": "https://supro.noudeveloper.com/uploads/6b_a08e2a0772.jpg",
+    "price": "56.95",
+    "original_price": "",
+    "id": "06",
+    "product_views": ["https://supro.noudeveloper.com/uploads/6a_ff1677c059.jpg", "https://supro.noudeveloper.com/uploads/6b_a08e2a0772.jpg", "https://supro.noudeveloper.com/uploads/6c_b0939277fc.jpg", "https://supro.noudeveloper.com/uploads/6d_92ad24cf39.jpg"]
+  },
+  {
+    "name": "Leather Shop Bag",
+    "photo": "https://supro.noudeveloper.com/uploads/10a_80311bad71.jpg",
+    "hovered_photo": "https://supro.noudeveloper.com/uploads/10b_e7fb9cf555.jpg",
+    "price": "59.9",
+    "original_price": "",
+    "id": "07",
+    "product_views": ["https://supro.noudeveloper.com/uploads/10a_80311bad71.jpg", "https://supro.noudeveloper.com/uploads/10b_e7fb9cf555.jpg", "https://supro.noudeveloper.com/uploads/10c_267d39cda7.jpg"]
+  },
+  {
+    "name": "Floral Short Jumpsuit",
+    "photo": "https://supro.noudeveloper.com/uploads/7a_3bc99ec180.jpg",
+    "hovered_photo": "https://supro.noudeveloper.com/uploads/7c_f287c80f74.jpg",
+    "price": "97.99",
+    "original_price": "",
+    "id": "08",
+    "product_views": ["https://supro.noudeveloper.com/uploads/7a_3bc99ec180.jpg", "https://supro.noudeveloper.com/uploads/7c_f287c80f74.jpg", "https://supro.noudeveloper.com/uploads/7b_160395603f.jpg"]
+  },
+  {
+    "name": "Furry Hooded Parka",
+    "photo": "https://supro.noudeveloper.com/uploads/8a_0a22fa37ce.jpg",
+    "hovered_photo": "https://supro.noudeveloper.com/uploads/8b_14eb4ea1fa.jpg",
+    "price": "77.99",
+    "original_price": "",
+    "id": "09",
+    "product_views": ["https://supro.noudeveloper.com/uploads/8a_0a22fa37ce.jpg", "https://supro.noudeveloper.com/uploads/8b_14eb4ea1fa.jpg", "https://supro.noudeveloper.com/uploads/8c_5fa7979bb4.jpg", "https://supro.noudeveloper.com/uploads/8d_9c0bb1209d.jpg"]
+  },
+  {
+    "name": "Glitter Decorated Shoes",
+    "photo": "https://supro.noudeveloper.com/uploads/9a_e1803113e4.jpg",
+    "hovered_photo": "",
+    "price": "77.99",
+    "original_price": "",
+    "id": "10",
+    "product_views": ["https://supro.noudeveloper.com/uploads/9a_e1803113e4.jpg", "https://supro.noudeveloper.com/uploads/9c_4359a2545a.jpg"]
+  },
+  {
+    "name": "Mango Women’s Bag",
+    "photo": "https://supro.noudeveloper.com/uploads/11a_65482a05e9.jpg",
+    "hovered_photo": "https://supro.noudeveloper.com/uploads/11b_eb3384f533.jpg",
+    "price": "79.9",
+    "original_price": "",
+    "id": "11",
+    "product_views": ["https://supro.noudeveloper.com/uploads/11a_65482a05e9.jpg", "https://supro.noudeveloper.com/uploads/11b_eb3384f533.jpg", "https://supro.noudeveloper.com/uploads/11c_462cfe6bf8.jpg", "https://supro.noudeveloper.com/uploads/11d_5a338c3867.jpg"]
+  },
+  {
+    "name": "Metallic Frame Glasses",
+    "photo": "https://supro.noudeveloper.com/uploads/12a_f801293941.jpg",
+    "hovered_photo": "https://supro.noudeveloper.com/uploads/12b_2ac028e5e0.jpg",
+    "price": "79.9",
+    "original_price": "",
+    "id": "12",
+    "product_views": ["https://supro.noudeveloper.com/uploads/12a_f801293941.jpg", "https://supro.noudeveloper.com/uploads/12b_2ac028e5e0.jpg", "https://supro.noudeveloper.com/uploads/12c_97a8047e4b.jpg", "https://supro.noudeveloper.com/uploads/13d_65710459f8.jpg"]
+  }
+]
