@@ -12,6 +12,8 @@ const Footer = () => {
                     <p>Premier Delivery</p>
                     <p>FAQs</p>
                     </div>
+
+                    
                 </div>
                 <div className="col">
                     <h6>ABOUT SUPRO</h6>
